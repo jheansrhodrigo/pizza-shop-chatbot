@@ -1,0 +1,24 @@
+{
+  "name": "pizza-shop-chatbot",
+  "version": "1.0.0",
+  "description": "## 🍕 self-service pizza ordering chatbot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jheansrhodrigo@github.com/jheansrhodrigo/pizza-shop-chatbot.git"
+  },
+  "keywords": [],
+  "author": "Jean Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jheansrhodrigo/pizza-shop-chatbot/issues"
+  },
+  "homepage": "https://github.com/jheansrhodrigo/pizza-shop-chatbot#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
